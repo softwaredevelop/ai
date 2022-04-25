@@ -5,3 +5,6 @@ root = false
 
 [*.{xml,iml}]
 indent_size = 2
+
+[*.java]
+indent_size = 2
