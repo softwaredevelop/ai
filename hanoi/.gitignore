@@ -12,6 +12,9 @@
 # AWS User-specific
 .idea/**/aws.xml
 
+# Azure User-specific
+.idea/**/azureSettings.xml
+
 # Generated files
 .idea/**/contentModel.xml
 
@@ -80,8 +83,3 @@ fabric.properties
 ### Intellij+all Patch ###
 # Ignore everything but code style settings and run configurations
 # that are supposed to be shared within teams.
-
-.idea/*
-
-!.idea/codeStyles
-!.idea/runConfigurations
